@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "822923027917",
+    "firebase_url": "https://arduino-iot-ae62c-default-rtdb.firebaseio.com",
+    "project_id": "arduino-iot-ae62c",
+    "storage_bucket": "arduino-iot-ae62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822923027917:android:2d20fdbc1a6d65bb285084",
+        "android_client_info": {
+          "package_name": "com.example.flicky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGJINmidI6Kl-HZk-33_7FyhRyogBhEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
